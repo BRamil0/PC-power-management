@@ -1,0 +1,29 @@
+{
+	"EN": {
+		"language": "EN",
+		"pc_power_management": "PC power management",
+		"shutdown": "Shut down",
+		"reboot": "Reboot",
+		"end_session": "End session",
+		"hibernation": "Hibernation",
+		"exit": "Exit"
+	},
+	"RU": {
+		"language": "RU",
+		"pc_power_management": "Управление питанием ПК",
+		"shutdown": "Завершить работу",
+		"reboot": "Перезагрузка",
+		"end_session": "Завершить сеанс",
+		"hibernation": "Гибернация",
+		"exit": "Выход"
+	},
+	"UA": {
+		"language": "UA",
+		"pc_power_management": "Управління живленням ПК",
+		"shutdown": "Завершити роботу",
+		"reboot": "Перезавантаження",
+		"end_session": "Завершити сеанс",
+		"hibernation": "Гібернація",
+		"exit": "Вихід"
+	}
+}
